@@ -1,4 +1,4 @@
-# Custom Log Searcher
+# Custom Log Hunter
 Custom Log Searcher is a command-line tool for searching through log files based on custom criteria using Gojq queries.
 
 ## Prerequisites
